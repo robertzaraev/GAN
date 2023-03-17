@@ -1,0 +1,1 @@
+https://wandb.ai/zaraev-rob/log_gan?workspace=user-zaraev-rob
